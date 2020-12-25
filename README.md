@@ -1,9 +1,5 @@
 # Best practices for Discord bots
 
-
-*NB: These guidelines are intended for bots running on public servers. If your
-bot is restricted to private ones, this document likely doesn't apply to you.*
-
 1. **Commands should be explicitly invoked**. Bots should not activate on
 normal chat. Instead, use a command prefix or only respond when your bot is
 directly @mentioned.
