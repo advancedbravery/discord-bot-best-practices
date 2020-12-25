@@ -7,7 +7,7 @@ bot is restricted to private ones, this document likely doesn't apply to you.*
 1. **Commands should be explicitly invoked**. Bots should not activate on
 normal chat. Instead, use a command prefix or only respond when your bot is
 directly @mentioned.
-2. **Use unique prefixes**. Single-character prefixes such as `!`, `$` and `.`
+2. **Use easy and memorable prefixes**. Single-character prefixes such as `!`, `$` and `.`
 are commonplace for activating commands and lead to overlaps with other bots.
 Should you opt to use a prefix for your bot, consider using words (`owl`) or
 unique Unicode characters (`¨`). Also, you should avoid using `#` or `@` as
