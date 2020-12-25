@@ -1,3 +1,4 @@
+# Discord bot best practices
 1. **Commands should be explicitly invoked**. Bots should not activate on
 normal chat. Instead, use a command prefix or only respond when your bot is
 directly @mentioned.
